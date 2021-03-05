@@ -1,6 +1,6 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
+    "title": "MaSVF Wiki Lab",
+    "desc": "A sample MaSVF wiki site and lab bench. You know, for testing and more.",
+    "author": "Bill Anderson",
     "baseurl": "https://eleventy-garden.netlify.app"
 }

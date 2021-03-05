@@ -1,5 +1,7 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# An MaSVF lab bench
+This is an experimental site for testing out some conceptual models of a multi-user available front-end to shared collections of text notes in markdown format.
+
+Confused? So are we. But here we are.

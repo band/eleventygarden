@@ -1,2 +1,10 @@
+# macOS
+.DS_Store
+
+# Eleventy Garden
 node_modules/
 _site/
+
+# Obsidian.md
+.obsidian/*
+!.obsidian/README.md

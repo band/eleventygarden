@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "c64469e843c69a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a2013c66b1cdc6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18657c3e569e22e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "570cf5165a34cc62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a047716f0e8ae4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db3bacdcd0cfa40b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f81037bf33d7b3ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0818684d8279577c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a247373b4fc76b66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "test.md",
+    "Untitled.md",
+    "food.md",
+    "easter egg.md",
+    "bar.md",
+    "😁 grinning.md",
+    "Still wondering about the git connection.md",
+    "first Obsidian note.md",
+    "index.md"
+  ]
+}

@@ -3,3 +3,5 @@
 - mediawiki-style, internal - [[ bar.md | example b ]]
 - mediawiki-style, internal, doesn't exist - [[ non-existent ]]
 - [[😁 grinning]]
+- ![pelicans](paPelicans-201606.png)
+

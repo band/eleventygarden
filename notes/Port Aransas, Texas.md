@@ -1,1 +1,1 @@
-![Pelicans, June 2016](paPelicans-201606.png)
+![Pelicans, June 2016](/notes/paPelicans201606.jpg)
